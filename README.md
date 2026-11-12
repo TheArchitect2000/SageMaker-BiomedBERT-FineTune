@@ -1,4 +1,4 @@
-# SageMaker BiomedBERT Fine-Tune
+# AWS SageMaker AI - BiomedBERT Model Fine-Tune
 
 Fine-tune BiomedBERT on Amazon SageMaker to label drug text (drug, excipient, dosage form, strength, route, process), then deploy it to an endpoint and send it requests.
 
